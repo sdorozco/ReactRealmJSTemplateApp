@@ -5,6 +5,14 @@
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "android": {
+      "package": "com.sdov1996.ReactRealmJSTemplateApp"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "6a56776c-7a3b-4475-be14-f985ece0f516"
+      }
+    }
   }
 }
